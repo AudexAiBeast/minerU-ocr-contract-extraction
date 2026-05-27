@@ -1,0 +1,7 @@
+[user]
+	email = gokul@audexglobal.com
+	name = AudexAiBeast
+[credential]
+	helper = "!f() { /home/paddleocr/.vscode-server/bin/f6cfa2ea2403534de03f069bdf160d06451ed282/node /tmp/vscode-remote-containers-14b35710-353d-4e0e-aeec-f65763deec6a.js git-credential-helper $*; }; f"
+[safe]
+	directory = /home/paddleocr

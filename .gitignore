@@ -1,0 +1,9 @@
+.cache/
+.config/
+.nv/
+.paddlex/
+.triton/
+.vscode-server/
+.bash_history
+.bash_logout
+.profile
