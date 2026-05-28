@@ -7,3 +7,7 @@
 .bash_history
 .bash_logout
 .profile
+.copilot/
+.ollama/
+.streamlit/
+__pycache__/

@@ -1,0 +1,182 @@
+{
+    "extracted_contract": {
+        "contract_information": {
+            "contract_title": "TRANSPORTATION AND DISTRIBUTION SERVICES CONTRACT""agreement_id": "Annexure IV""contract_effective_from_date": "2 October 2025""contract_end_date": "01-10-2025""contract_valid_until": "02-Oct-2027""contract_duration": "2 years""contract_signed_date": "11-Nov-2025""contract_issued_on_date": "26-Nov-2025"
+        }
+"parties": {
+            "lsp_name": "SAFEXP AL THIUM MEDTEC""shipper_name": "HEALTHIUM MEDTECH LIMITED"
+        }
+"commercial_terms": {
+            "freight_type":NULL
+"minimum_chargeable_weight":NULL
+"docket_charge":NULL
+"fuel_surcharge":NULL
+"oda_charge":NULL
+"liability_limit":NULL
+"payment_frequency":NULL
+"credit_period":NULL
+        }
+"transport": {
+            "zones": [
+                0: "Tier 2 & Tier 3 Towns"1: "Outside Delivery Areas"2: "North-East Delivery Zone"3: "Guwahati"4: "Mizoram"5: "Tripura"6: "Meghalaya"7: "Arunachal Pradesh"8: "Nagaland"9: "Manipur"10: "Maharashtra"11: "Kerala"
+            ]
+        }
+"critical_clauses": {
+            "claim_settlement_clause": "7 days, customer liable""liability_clause": "Rs.10,000 max""termination_clause": "written notice for breach of payment terms""payment_clause": "Reimbursement at delivery, 7 days from demand""tat_clause": "1 day for bookings after 08:00, 1 day for Tier 2/3, 2 days for remote areas"
+        }
+    }
+"relevant_tables": [
+        0: {
+            "table_id": "table_2""headers": [
+                0: "ZONE/ MODE"1: "A"2: "B"3: "C"4: "D"5: "E"
+            ]
+"rows": [
+                0: [
+                    0: "SURFACE"1: "2"2: "3"3: "4"4: "5"5: "6"
+                ]
+            ]
+        }
+1: {
+            "table_id": "table_3""headers": [
+                0: "ZONE/ MODE"1: "A"2: "B"3: "C"4: "D"5: "E"
+            ]
+"rows": [
+                0: [
+                    0: "AIR"1: "1"2: "2"3: "2"4: "3"5: "3"
+                ]
+            ]
+        }
+2: {
+            "table_id": "table_4""headers": [
+                0: "Zone"1: "Surface"2: "Air"
+            ]
+"rows": [
+                0: [
+                    0: "A"1: "5.25"2: "45"
+                ]
+1: [
+                    0: "B"1: "6.3"2: "45"
+                ]
+2: [
+                    0: "C"1: "7.77"2: "50"
+                ]
+3: [
+                    0: "D"1: "8.4"2: "60"
+                ]
+4: [
+                    0: "E"1: "13.65"2: "70"
+                ]
+            ]
+        }
+3: {
+            "table_id": "table_5""headers": [
+                0: "EX/ TO"1: "NORTH ONE"2: "NORTH TWO"3: "EAST"4: "NORTH EAST"5: "WEST ONE"6: "WEST TWO"7: "SOUTH ONE"8: "SOUTH TWO"9: "CENTRAL"
+            ]
+"rows": [
+                0: [
+                    0: "NORTH ONE"1: "A"2: "A"3: "D"4: "E"5: "B"6: "C"7: "C"8: "D"9: "B"
+                ]
+1: [
+                    0: "NORTH TWO"1: "A"2: "A"3: "D"4: "E"5: "C"6: "C"7: "D"8: "D"9: "B"
+                ]
+2: [
+                    0: "EAST"1: "C"2: "D"3: "A"4: "B"5: "C"6: "D"7: "C"8: "D"9: "B"
+                ]
+3: [
+                    0: "NORTH EAST"1: "C"2: "D"3: "B"4: "A"5: "D"6: "D"7: "D"8: "E"9: "C"
+                ]
+4: [
+                    0: "WEST ONE"1: "B"2: "C"3: "D"4: "E"5: "A"6: "A"7: "C"8: "D"9: "B"
+                ]
+5: [
+                    0: "WEST TWO"1: "C"2: "D"3: "D"4: "E"5: "A"6: "A"7: "B"8: "D"9: "B"
+                ]
+6: [
+                    0: "SOUTH ONE"1: "C"2: "D"3: "D"4: "E"5: "C"6: "B"7: "A"8: "B"9: "B"
+                ]
+7: [
+                    0: "SOUTH TWO"1: "D"2: "D"3: "D"4: "E"5: "C"6: "C"7: "A"8: "A"9: "B"
+                ]
+8: [
+                    0: "CENTRAL"1: "B"2: "C"3: "D"4: "E"5: "A"6: "B"7: "B"8: "D"9: "A"
+                ]
+            ]
+        }
+4: {
+            "table_id": "table_6""headers": [
+                0: "NORTH ONE"1: "DELHI, UTTAR PRADESH, HARYANA, RAJASTHAN"
+            ]
+"rows": [
+                0: [
+                    0: "NORTH TWO"1: "CHANDIGARH, PUNJAB, HIMACHAL PRADESH, UTTARAKHAND, JAMMU & KASHMIR & LADAKH"
+                ]
+1: [
+                    0: "EAST"1: "WEST BENGAL, ODISHA, BIHAR, JHARKHAND, CHHATTISGARH"
+                ]
+2: [
+                    0: "NORTH EAST"1: "ASSAM, MEGHALAYA, TRIPURA, ARUNACHAL PRADESH, MIZORAM, MANIPUR, NAGALAND, SIKKIM"
+                ]
+3: [
+                    0: "WEST ONE"1: "GUJARAT, DAMAN & DIU AND DADRA & NAGAR HAVELI"
+                ]
+4: [
+                    0: "WEST TWO"1: "MAHARASHTRA, GOA"
+                ]
+5: [
+                    0: "SOUTH ONE"1: "ANDHRA PRADESH, TELANGANA, KARNATAKA, TAMIL NADU & PUDUCHERRY"
+                ]
+6: [
+                    0: "SOUTH TWO"1: "KERALA"
+                ]
+            ]
+        }
+5: {
+            "table_id": "table_7""headers": [
+                0: ""1: ""2: ""3: "1 CFT"4: "Rate Confirmation"
+            ]
+"rows": [
+                0: [
+                    0: "A"1: "Volumetric Method"2: "1 kg"3: "1 CFT = 6 Kgs"4: ""
+                ]
+            ]
+        }
+6: {
+            "table_id": "table_8""headers": [
+                0: "i. Minimum Chargeable Weight: 20"
+            ]
+"rows": [
+                0: [
+                    0: "ii. Docket Charges: 100"
+                ]
+1: [
+                    0: "iii. Freight on Value (FOV) Charge: 0.02% or Rs-100 whichever is Higher"
+                ]
+2: [
+                    0: "iv. Fuel Surcharge will be 12% on total Freight Value."
+                ]
+3: [
+                    0: "V. Minimum Liability Rs10,000/- Above will be COF provided"
+                ]
+4: [
+                    0: "Vi. ODA Charges will be Rs 1500"
+                ]
+            ]
+        }
+7: {
+            "table_id": "table_9""headers": [
+                0: "#"1: "Details"2: "Terms"3: "Confirmation"
+            ]
+"rows": [
+                0: [
+                    0: "A"1: "Invoicing Basis (Booked Dockets)"2: "Booked Dockets"3: ""
+                ]
+1: [
+                    0: "B"1: "Invoicing Frequency"2: "Fortnightly"3: ""
+                ]
+2: [
+                    0: "C"1: "Credit Period"2: "30 Days"3: ""
+                ]
+            ]
+        }
+    ]
+}

@@ -2,6 +2,6 @@
 	email = gokul@audexglobal.com
 	name = AudexAiBeast
 [credential]
-	helper = "!f() { /home/paddleocr/.vscode-server/bin/f6cfa2ea2403534de03f069bdf160d06451ed282/node /tmp/vscode-remote-containers-14b35710-353d-4e0e-aeec-f65763deec6a.js git-credential-helper $*; }; f"
+	helper = "!f() { /home/paddleocr/.vscode-server/bin/f6cfa2ea2403534de03f069bdf160d06451ed282/node /tmp/vscode-remote-containers-a1c07db4-6f97-4abf-b03c-0a749b6a1b7a.js git-credential-helper $*; }; f"
 [safe]
 	directory = /home/paddleocr
